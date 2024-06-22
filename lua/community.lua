@@ -11,5 +11,9 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.fish" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.sql" },
+  { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.cmake" },
   -- import/override with your plugins folder
 }
